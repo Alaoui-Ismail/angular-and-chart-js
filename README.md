@@ -1,6 +1,8 @@
 
 
 # chart js with angular 
+
+
  1- npm i chart.js
  2- create new component 
  3- import chart in component  (import  {Chart} from 'chart.js')
